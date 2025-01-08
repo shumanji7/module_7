@@ -1,4 +1,3 @@
-
 # Module 7 Challenge
 ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
 ## Description
@@ -26,4 +25,3 @@ This project is licensed under the None license.
 If you have any questions, please contact me at shumanjacob@gmail.com. You can find more of my work at [shumanji7]
 - [GitHub](shumanji7)(github.com/shumanji7)
 - [Email](mailto:shumanjacob@gmail.com)
-
